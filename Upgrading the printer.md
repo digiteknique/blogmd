@@ -4,7 +4,7 @@ I have enjoyed my Robo3D R1+ since Christmas 2015. It works really well and I ha
 
 ### First things first
 
-The printer came with some cable management, a tube of plastic to hold all of the extruder and hot end wire. Not near cool enough. I found a great cable chain model on thingiverse.com and began printing. 38 links later and that was done. This upgrade also fully replaces the extruder and extruder motor on the machine. I will need a new mounting plate, also found this model on thingiverse. 
+The printer came with some cable management, a tube of plastic to hold all of the extruder and hot end wire. Not near cool enough. I found a great [cable chain model](http://www.thingiverse.com/thing:696183) on thingiverse.com and began printing. 38 links later and that was done. This upgrade also fully replaces the extruder and extruder motor on the machine. I will need a new mounting plate, also found [this model](http://www.thingiverse.com/thing:1528588) on thingiverse. 
 
 ### Extruder and hot end
 

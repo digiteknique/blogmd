@@ -4,7 +4,7 @@ title = "Dustin Kopp"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = "dustinkopp"
 googleAnalytics = ""
 
 [params]
@@ -43,7 +43,7 @@ googleAnalytics = ""
 [params.intro]
     header    = "Dustin Kopp"
 
-    paragraph = "This is my first test playing with Hugo for static site generation as well as my first blog.</i>"
+    paragraph = "This is my first test playing with Hugo for static site generation as well as my first blog."
 
     about     = "I have been a .Net developer for 15 years and have a hobby of hobbies. Recently 3d printing and scuba diving."
 

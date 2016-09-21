@@ -16,9 +16,9 @@ type = "post"
 
 I have enjoyed my Robo3D R1+ since Christmas 2015. It works really well and I haven't had too many issues with it, but I was born a tinkerer. E3D recently came out with a few interesting things, the Titan extruder and the v6 hot end with a little silicone sleeve to keep the block clean. Well I obviously need this. I was also made aware of a new controller board gaining some traction, the Duet WiFi. It is time for an upgrade.
 
-### First things first
+### First things firsts
 
-The printer came with some cable management, a tube of plastic to hold all of the extruder and hot end wire. Not near cool enough. I found a great cable chain model on thingiverse.com and began printing. 38 links later and that was done. This upgrade also fully replaces the extruder and extruder motor on the machine. I will need a new mounting plate, also found this model on thingiverse. 
+The printer came with some cable management, a tube of plastic to hold all of the extruder and hot end wire. Not near cool enough. I found a great [cable chain model](http://www.thingiverse.com/thing:1154650) on thingiverse.com and began printing. 35 links later and that was done. This upgrade also fully replaces the extruder and extruder motor on the machine. I will need a new mounting plate, also found [this model](http://www.thingiverse.com/thing:1528588) on thingiverse. 
 
 ### Extruder and hot end
 
