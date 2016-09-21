@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustin Kopp</title>
+    <link>http://www.dustinkopp.com/</link>
+    <description>Recent content on Dustin Kopp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Sep 2016 23:29:54 -0500</lastBuildDate>
+    <atom:link href="http://www.dustinkopp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://www.dustinkopp.com/about/</link>
+      <pubDate>Tue, 20 Sep 2016 23:29:54 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/about/</guid>
+      <description>&lt;p&gt;I have been a developer for about 15 years. I primarily focus on .Net and am now moving further into the javascript ecosystem. I also do mobile development for the company I have the privilege of working for, 
+
+    
+        
+    
+
+    &lt;a href=&#34;http://www.mercuryvmp.com/&#34; target=&#39;_blank&#39;&gt;Mercury Network&lt;/a&gt;
+
+.&lt;/p&gt;
+
+&lt;p&gt;I am working on a couple small sites using Node.js and AngularJS 2. Once they are complete, they will be linked here.&lt;/p&gt;
+
+&lt;p&gt;I also enjoy too many hobbies including 3D printing, SCUBA diving, woodworking, brewing beer and am an Oklahoma Sooners fan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://www.dustinkopp.com/blog/first-post/</link>
+      <pubDate>Tue, 20 Sep 2016 23:22:22 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/blog/first-post/</guid>
+      <description>&lt;p&gt;I created this static site using 
+
+    
+        
+    
+
+    &lt;a href=&#34;http://gohugo.io/&#34; target=&#39;_blank&#39;&gt;Hugo&lt;/a&gt;
+
+. Hugo enables you to generate a very fast site using static pages.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
