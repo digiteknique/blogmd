@@ -6,8 +6,79 @@
     <description>Recent content on Dustin Kopp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Sep 2016 23:29:54 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2016 17:18:15 -0500</lastBuildDate>
     <atom:link href="http://www.dustinkopp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Upgrading the printer</title>
+      <link>http://www.dustinkopp.com/blog/upgrading-the-printer/</link>
+      <pubDate>Wed, 21 Sep 2016 17:18:15 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/blog/upgrading-the-printer/</guid>
+      <description>
+
+&lt;h1 id=&#34;upgrading-the-printer&#34;&gt;Upgrading the printer&lt;/h1&gt;
+
+&lt;p&gt;I have enjoyed my Robo3D R1+ since Christmas 2015. It works really well and I haven&amp;rsquo;t had too many issues with it, but I was born a tinkerer. E3D recently came out with a few interesting things, the Titan extruder and the v6 hot end with a little silicone sleeve to keep the block clean. Well I obviously need this. I was also made aware of a new controller board gaining some traction, the Duet WiFi. It is time for an upgrade.&lt;/p&gt;
+
+&lt;h3 id=&#34;first-things-first&#34;&gt;First things first&lt;/h3&gt;
+
+&lt;p&gt;The printer came with some cable management, a tube of plastic to hold all of the extruder and hot end wire. Not near cool enough. I found a great cable chain model on thingiverse.com and began printing. 38 links later and that was done. This upgrade also fully replaces the extruder and extruder motor on the machine. I will need a new mounting plate, also found this model on thingiverse.&lt;/p&gt;
+
+&lt;h3 id=&#34;extruder-and-hot-end&#34;&gt;Extruder and hot end&lt;/h3&gt;
+
+&lt;p&gt;Once these were printed I was ready to go. I purchased a fully assembled extruder, it was only a couple bucks more. Attaching the extruder to the hot end was simple, following the E3D instructions it came together just fine. I needed to replace the stock bolts that held the old extruder in place as they were a bit too for the new pieces.&lt;/p&gt;
+
+&lt;p&gt;After threading the hot end through the carriage, I was able to bolt down the new mounting plate and run all of the wire through the cable chain to the wire access hole in the case. At this point I could just hook up to the Arduino in the correct spaces, update my firmware, and start printing.&lt;/p&gt;
+
+&lt;h3 id=&#34;duet-wifi&#34;&gt;Duet WiFi&lt;/h3&gt;
+
+&lt;p&gt;I still had this Duet board to swap in. Going with the Duet gives my printer a &lt;em&gt;much&lt;/em&gt; beefier platform for processing g-code as well as direct access to my WiFi. This means I can initiate prints from anywhere in the house, update firmware via the web interface, check print status while cooking dinner, and a few other niceties. The board was very clearly labeled and hooking it up caused no real issues.&lt;/p&gt;
+
+&lt;h3 id=&#34;bom&#34;&gt;BOM&lt;/h3&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Quantity&lt;/th&gt;
+&lt;th&gt;Item&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Cost each&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;Total&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.filastruder.com/collections/electronics/products/duet-wifi&#34;&gt;Duet WiFi&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$170.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$170.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.filastruder.com/collections/titanextruder/products/e3d-titan-extruder&#34;&gt;Titan Extruder&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$65.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$65.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.filastruder.com/collections/e3d-hotends/products/all-metal-e3d-v6-hotend-assembled&#34;&gt;E3D V6&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$85.00&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$85.00&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;$320.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>about</title>
