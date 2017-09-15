@@ -7,7 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Sep 2016 23:22:22 -0500</lastBuildDate>
-    <atom:link href="http://www.dustinkopp.com/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.dustinkopp.com/categories/first/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>First Post</title>
@@ -15,16 +17,7 @@
       <pubDate>Tue, 20 Sep 2016 23:22:22 -0500</pubDate>
       
       <guid>http://www.dustinkopp.com/blog/first-post/</guid>
-      <description>&lt;p&gt;I created this static site using 
-
-    
-        
-    
-
-    &lt;a href=&#34;http://gohugo.io/&#34; target=&#39;_blank&#39;&gt;Hugo&lt;/a&gt;
-
-. Hugo enables you to generate a very fast site using static pages.&lt;/p&gt;
-</description>
+      <description>I created this static site using {{&amp;lt; url-link &amp;ldquo;Hugo&amp;rdquo; &amp;ldquo;http://gohugo.io/&amp;quot; &amp;gt;}}. Hugo enables you to generate a very fast site using static pages.</description>
     </item>
     
   </channel>

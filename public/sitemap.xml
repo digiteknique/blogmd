@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://www.dustinkopp.com/</loc>
-    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://www.dustinkopp.com/blog/upgrading-the-printer/</loc>
@@ -19,6 +15,59 @@
   <url>
     <loc>http://www.dustinkopp.com/blog/first-post/</loc>
     <lastmod>2016-09-20T23:22:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/3d-printing/</loc>
+    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/blog/</loc>
+    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/</loc>
+    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/</loc>
+    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/first/</loc>
+    <lastmod>2016-09-20T23:22:22-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/hugo/</loc>
+    <lastmod>2016-09-20T23:22:22-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/robo3d/</loc>
+    <lastmod>2016-09-21T17:18:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dustinkopp.com/categories/testing/</loc>
+    <lastmod>2016-09-20T23:22:22-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

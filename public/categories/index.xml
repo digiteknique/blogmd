@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dustin Kopp</title>
+    <link>http://www.dustinkopp.com/categories/</link>
+    <description>Recent content in Categories on Dustin Kopp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Sep 2016 17:18:15 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.dustinkopp.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3D Printing</title>
+      <link>http://www.dustinkopp.com/categories/3d-printing/</link>
+      <pubDate>Wed, 21 Sep 2016 17:18:15 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/categories/3d-printing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://www.dustinkopp.com/categories/first/</link>
+      <pubDate>Tue, 20 Sep 2016 23:22:22 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/categories/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://www.dustinkopp.com/categories/hugo/</link>
+      <pubDate>Tue, 20 Sep 2016 23:22:22 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robo3D</title>
+      <link>http://www.dustinkopp.com/categories/robo3d/</link>
+      <pubDate>Wed, 21 Sep 2016 17:18:15 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/categories/robo3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing</title>
+      <link>http://www.dustinkopp.com/categories/testing/</link>
+      <pubDate>Tue, 20 Sep 2016 23:22:22 -0500</pubDate>
+      
+      <guid>http://www.dustinkopp.com/categories/testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
